@@ -11,7 +11,15 @@
 - console.log(15-10);
 - console.log(25/5);
 - console.log(2*4);
+- console.log(27%4);
 # Comparison operators
+- A comparison operator compares its operands and return a logical value based on whether the comparison is true.
+- Equal (==)
+- Not Equal (!=)
+- Greater than (>)
+- Greater than or equal (>=)
+- Less than (<)
+- Less than or equal (<=)
 # Logical operators
 # String operators
 # Conditional (ternary) operator
